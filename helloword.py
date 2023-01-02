@@ -1,2 +1,2 @@
 print("helloooooo.gdfgdfg")
-pirtn("ich habe angst")
+print("ich habe angst")
